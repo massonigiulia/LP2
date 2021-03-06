@@ -1,2 +1,0 @@
-a) Aplicação para calcular e mostrar o peso ideal de uma pessoa.
-b) Criar um programa que a partir de 3 valores fornecidos, verificar se eles podem pertencer aos lados de umtriângulo, e caso sim, informar se é isósceles, equilátero ou escaleno. 
