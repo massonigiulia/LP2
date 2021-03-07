@@ -1,0 +1,10 @@
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PTriangulos\bin\Debug\PTriangulos.exe.config
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PTriangulos\bin\Debug\PTriangulos.exe
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PTriangulos\bin\Debug\PTriangulos.pdb
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PTriangulos\obj\Debug\PTriangulos.csprojAssemblyReference.cache
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PTriangulos\obj\Debug\PTriangulos.Form1.resources
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PTriangulos\obj\Debug\PTriangulos.Properties.Resources.resources
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PTriangulos\obj\Debug\PTriangulos.csproj.GenerateResource.cache
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PTriangulos\obj\Debug\PTriangulos.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PTriangulos\obj\Debug\PTriangulos.exe
+C:\Users\PICHAU\Documents\MATERIAIS DAS FATEC\2sem\LP2\PTriangulos\obj\Debug\PTriangulos.pdb
