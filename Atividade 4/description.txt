@@ -1,0 +1,1 @@
+Programa que solicita o salário bruto de uma pessoa e verifique em qual faixa de desconto de INSS e IRPF ela se encontra. Incluir também o Salário Família. Mostrar os valores dos descontos e Salário Líquido.
