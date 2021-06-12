@@ -1,0 +1,9 @@
+Projeto: Cadastro de Pessoas Vacinadas
+O projeto tem por objetivo desenvolver um Cadastro das Pessoas vacinadas contra a COVID-19.
+
+Problema:
+Muitas pessoas serão vacinadas e devem ser cadastradas. Esse cadastro será para cidades da
+região de Sorocaba. Deverá conter os dados: nome da pessoa vacinada, data de nascimento,
+endereço, cidade, cpf, rg, data e hora da vacinação, enfermeiro(a) que aplicou, tipo da vacina
+(Coronavac, Astrazeneca, Pfizer), se tem comorbidades (problemas de saúde) e se é grupo
+prioritário de profissionais (saúde, professores, caminhoneiros etc.).
